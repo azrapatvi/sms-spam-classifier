@@ -10,8 +10,8 @@ You give it an SMS message → it tells you if it's **Spam 🚨** or **Ham ✅**
 
 Example:
 ```
-Input:  "Congratulations! You won a free iPhone. Click here to claim now."
-Output: SPAM 🚨
+Input:  enter message?
+Output: SPAM /HAM
 ```
 
 ---
@@ -117,8 +117,4 @@ sms-spam-classifier-word2vec/
 - **Lemmatization** – Reduces words to their base form
 - **RandomizedSearchCV** – Finds best hyperparameters efficiently
 
----
 
-## 👤 Author
-
-Made by [Your Name] — feel free to fork and improve!
